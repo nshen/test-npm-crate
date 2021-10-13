@@ -5,3 +5,7 @@
 ## build
 
 `wasm-pack build --target web`
+
+## npm
+
+https://www.npmjs.com/package/test-npm-crate
