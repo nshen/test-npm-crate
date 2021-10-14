@@ -18,5 +18,5 @@ extern "C" {
 // js -> rust
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, {{project-name}}!");
+    alert("Hello! I'm from test-npm-crate!");
 }

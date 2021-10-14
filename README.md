@@ -9,3 +9,10 @@
 ## npm
 
 https://www.npmjs.com/package/test-npm-crate
+
+## publish
+
+```
+cd pkg
+npm publish --access=public
+```

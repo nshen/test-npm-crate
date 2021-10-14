@@ -1,10 +1,11 @@
 [package]
 name = "test-npm-crate"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2018"
 authors = ["Nshen <nshen121@gmail.com>"]
 description = "vite-plugin-wasm-pack test crate"
 repository = "https://github.com/nshen/test-npm-crate"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
